@@ -1,4 +1,4 @@
-A = 1
+A = 6
 while A < 30:
     print(A)
     if A > 20:
